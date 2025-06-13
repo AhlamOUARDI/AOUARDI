@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /AhlamOUARDI/publications/
+    url: "https://ahlamouardi.github.io/AhlamOUARDI/publications/"
 
   - title: "Talks"
     url: /AhlamOUARDI/talks/    
