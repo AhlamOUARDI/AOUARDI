@@ -12,10 +12,10 @@ main:
     url: "https://ahlamouardi.github.io/AhlamOUARDI/publications/"
 
   - title: "Talks"
-    url: "https://ahlamouardi.github.io/AhlamOUARDI/publications/talks/" 
+    url: "https://ahlamouardi.github.io/AhlamOUARDI/talks/" 
 
   - title: "Teaching"
-    url: "https://ahlamouardi.github.io/AhlamOUARDI/publications/teaching/"  
+    url: "https://ahlamouardi.github.io/AhlamOUARDI/teaching/"  
     
 #  - title: "Portfolio"
 #    url: /AhlamOUARDI/portfolio/
@@ -24,7 +24,7 @@ main:
   #  url: /AhlamOUARDI/year-archive/
     
   - title: "CV"
-    url: "https://ahlamouardi.github.io/AhlamOUARDI/publications/cv/"
+    url: "https://ahlamouardi.github.io/AhlamOUARDI/cv/"
     
   # - title: "CV"
   #   url: /cv-json/
