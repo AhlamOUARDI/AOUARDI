@@ -10,4 +10,4 @@ author_profile: true
 **[Port-Hamiltonian model of eddy current brake :](https://uni-wuppertal.sciebo.de/s/QMAlZLpmlahEOla#pdfviewer)**
 
 **Modeling and Stabilization of port-Hamiltonian Systems**
-[Slides](https://ahlamouardi.github.io/AhlamOUARDI/files/Presentation.pdf)**, [Report](https://ahlamouardi.github.io/AhlamOUARDI/files/Report.pdf)**
+[Slides](https://ahlamouardi.github.io/AOUARDI/files/Presentation.pdf)**, [Report](https://ahlamouardi.github.io/AOUARDI/files/Report.pdf)**
