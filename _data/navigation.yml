@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: "https://ahlamouardi.github.io/AhlamOUARDI/publications/"
+#  - title: "Publications"
+#    url: "https://ahlamouardi.github.io/AhlamOUARDI/publications/"
 
   - title: "Talks"
     url: "https://ahlamouardi.github.io/AhlamOUARDI/talks/" 
