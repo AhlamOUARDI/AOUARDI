@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a mathematics teacher, currently pursuing a **PhD** in applied mathematics and modeling at [**UM6P's Vanguard Center**](https://vanguard.um6p.ma/en/phd-program/). My research interest sits at the intersection of mathematics, biomedical sciences, and engineering, with a particular focus on port-Hamiltonian systems, optimal control, inverse problems, and data-driven models.
+I am a mathematics teacher, currently pursuing a **pre-doctoral program** in applied mathematics and modeling at [**UM6P's Vanguard Center**](https://vanguard.um6p.ma/en/phd-program/). My research interest sits at the intersection of mathematics, biomedical sciences, and engineering, with a particular focus on port-Hamiltonian systems, optimal control, inverse problems, and data-driven models.
 
 My academic journey was deepened through engineering studies at [**EMINES School of Industrial Management**](https://www.emines-ingenieur.org/), where I explored diverse disciplines—from computational fluid dynamics to biomedical engineering. A formative internship at [**MAScIR**](https://www.mascir.com/) introduced me to research on tuberculosis diagnostics and wearable biosensing, igniting my interest in biology-driven applications of mathematics.
 
