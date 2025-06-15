@@ -1,11 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience 1"
 collection: teaching
-type: "Mathematics oral examination sessions ("Khôlles")"
-venue: "EMINES, UM6P"
-date: 2024-09-02 
+type: "Undergraduate course"
+venue: "EMINES, School of Industrial Management"
+date: 2025-03-20
 location: "Ben guerir, Morocco"
 ---
 
-for first- and second-year students in the integrated preparatory program at EMINES
+An itroduction to Mathematical Modelling, for 4th-year engineering students at EMINES
 
+ODEs : [Lecture](https://ahlamouardi.github.io/AOUARDI/files/files/edo_imm.pdf), [Practical session: SIRS model](https://ahlamouardi.github.io/AOUARDI/files/files/SIRS.pdf)\
+======
+
+Heat equation: Lecture, [Practical session: Black-Scholes model](https://ahlamouardi.github.io/AOUARDI/files/files/bsmodel.pdf)\
+======
+
+Markov chains: [Lecture](https://ahlamouardi.github.io/AOUARDI/files/files/CdM.pdf), [Practical session: Stock management with stochastic demand](https://ahlamouardi.github.io/AOUARDI/files/files/stock.pdf)\
+======
