@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Mathematics oral examination sessions ("Khôlles")"
 venue: "EMINES, School of Industrial Management"
 date: 2025-03-20
 location: "Ben guerir, Morocco"
 ---
 
-An itroduction to mathematical modelling, for 4th year engineering students.
+for first- and second-year students in the integrated preparatory program at EMINES.
 
 Heading 1
 ======
