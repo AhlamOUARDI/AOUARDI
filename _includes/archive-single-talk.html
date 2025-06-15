@@ -27,9 +27,9 @@
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <i class="fa fa-link" aria-hidden="true" ></i></a>
+        
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" >{{ title }}</a>
+        
       {% endif %}
     </h2>
     {% if post.read_time %}
