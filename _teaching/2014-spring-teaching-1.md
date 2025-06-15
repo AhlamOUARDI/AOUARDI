@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Mathematics oral examination sessions (Khôlles)"
+type: "Mathematics oral examination sessions (*Khôlles*)"
 venue: "EMINES, School of Industrial Management"
 date: 2025-03-20
 location: "Ben guerir, Morocco"
